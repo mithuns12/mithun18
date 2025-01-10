@@ -56,6 +56,8 @@ To run **FaceDetectAI**, you need the following:
 
 1. **Export the Model:**
    - Once the model is trained, click **Export the Model** to prepare it for use in your project.
+   - ![image](https://github.com/user-attachments/assets/10d83a12-8241-4efa-9773-e519d04ade71)
+
 
 #### Step 6: Download the Model Files
 
@@ -69,6 +71,8 @@ To run **FaceDetectAI**, you need the following:
 
 2. **Extract and Place Model Files:**
    - Extract the `.zip` file and place the `.h5` model file and the `.txt` class labels file into your project directory.
+   - ![image](https://github.com/user-attachments/assets/df75e339-7a1c-4c3b-a6c9-9e755a27890c)
+
 
 #### Step 8: Install Required Libraries
 
