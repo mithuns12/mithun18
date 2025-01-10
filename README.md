@@ -1,6 +1,4 @@
-Great choice! The project will now be called **FaceDetectAI**.
 
-Here’s an updated version of the README with the new project name:
 
 ---
 
