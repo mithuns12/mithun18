@@ -27,16 +27,21 @@ To run **FaceDetectAI**, you need the following:
 1. **Navigate to the Google Teachable Machine Website:**
    - Open **Google Chrome** or any browser and visit the [Google Teachable Machine website](https://teachablemachine.withgoogle.com/).
    - Click on **Get Started** to begin the model creation process.
+   - ![image](https://github.com/user-attachments/assets/d740ea27-b4a0-4269-acc6-7d1573403333)
+
 
 #### Step 2: Create a New Project
 
 1. **Select Project Type:**
    - In the **New Project** section, choose **Image Model**.
+![image](https://github.com/user-attachments/assets/df1d02f7-23d2-4458-b533-424e35b1ef9b)
 
 #### Step 3: Choose the Standard Image Model
 
 1. **Set Up the Model:**
    - Select the **Standard Image Model** option. This model type is suitable for classifying images into the categories you define.
+   - ![image](https://github.com/user-attachments/assets/e9960d01-2172-4388-a6e0-b12c89898a59)
+
 
 #### Step 4: Upload Images and Train the Model
 
@@ -45,6 +50,7 @@ To run **FaceDetectAI**, you need the following:
    
 2. **Upload Images and Train:**
    - Upload images from your webcam or Google Drive. The model will learn to differentiate between the uploaded classes. You will be able to view the confidence percentages for each class.
+![image](https://github.com/user-attachments/assets/4e0f3a6a-77f0-4b89-a8e7-5beb06a3b83b)
 
 #### Step 5: Export the Model
 
